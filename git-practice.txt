@@ -22,4 +22,4 @@ git push
 
 git pull
 
-Git helps in version control and collaboration.
+Git helps in version control and collaboration.Git and GitHub practical demonstration
